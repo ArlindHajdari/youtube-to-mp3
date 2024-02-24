@@ -13,3 +13,6 @@ In addition FeedSdCard.py is created in order to rename .mp3 files recursively o
 ...
 
 If there are more than 99 songs in that folder
+
+Usage:
+python3 FeedSdCard.py path_to_root_folder -r(for recursive modification)
